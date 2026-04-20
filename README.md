@@ -5,9 +5,7 @@ Analyze monthly revenue and order volume.
 
 ## Tools Used
 - Google Colab
-- SQLite
 - Python
-- Pandas
 
 ## Files
 - sales_analysis.csv
